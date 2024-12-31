@@ -1,6 +1,7 @@
 # Building-AI-course-
 Building AI
-#Proposal: Intelligent Recommendation System for Coffee Shops and Restaurants An intelligent recommendation system designed to simplify the process of finding coffee shops or restaurants that cater to specific cravings, dietary restrictions, and availability. Users input a specific dish, beverage, or dietary requirement (e.g., vegan curry, gluten-free pizza, Vienna-style coffee), and the system intelligently searches menus, location data, and business hours to suggest the best nearby options that are currently open.
+#Proposal: Intelligent Recommendation System for Coffee Shops and Restaurants 
+An intelligent recommendation system designed to simplify the process of finding coffee shops or restaurants that cater to specific cravings, dietary restrictions, and availability. Users input a specific dish, beverage, or dietary requirement (e.g., vegan curry, gluten-free pizza, Vienna-style coffee), and the system intelligently searches menus, location data, and business hours to suggest the best nearby options that are currently open.
 
 #Background Finding a suitable restaurant or coffee shop is often time-consuming and frustrating, especially for individuals with:
 
